@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e49d0104-3200-41d5-95ed-dc8112bed6a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/About.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Reservation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-    </list>
+    <list default="true" id="e49d0104-3200-41d5-95ed-dc8112bed6a8" name="Default" comment="" />
     <ignored path="little-lemon.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
